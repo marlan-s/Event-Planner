@@ -5,8 +5,7 @@ export default function Footer() {
   return (
     <footer className={`${classNames.footer} card-footer`}>
       <p className='card-footer-item'>
-        This is an open source project by&nbsp;
-        <a href='https://dmcshehan.com'>Shehan Disanayake</a>.
+        This is an open source project by Marlan Frando.
       </p>
     </footer>
   );
